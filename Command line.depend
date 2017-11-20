@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1511171519 source:e:\programming\command line\folder.cpp
+
+1511189798 source:e:\programming\command line\main.cpp
+	"command_line.h"
+
+1511192715 source:e:\programming\command line\command_line.cpp
+	"command_line.h"
+	<cstring>
+	<cstdio>
+
+1511192059 e:\programming\command line\command_line.h
+	"directory.h"
+
+1511192056 e:\programming\command line\directory.h
+	"directory_element.h"
+	<vector>
+
+1511190751 e:\programming\command line\directory_element.h
+
+1511191904 source:e:\programming\command line\directory.cpp
+	"directory.h"
+	<cstring>
+	<cstdio>
+
+1511192949 source:e:\programming\command line\directory_element.cpp
+	"directory_element.h"
+	<cstring>
+	<cstdio>
+
